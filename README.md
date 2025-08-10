@@ -10,7 +10,7 @@
 ---
 
 ## 🗂 2. Fonte dos Dados
-- Dataset: [Sample Supersto --> [link](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls)]
+- Dataset: [Sample Superstore --> [link](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls)]
 - Tamanho: [número de linhas/colunas]
 - Origem: Tableau. 
 
@@ -22,4 +22,8 @@
 ## 💻 4. Tecnologias Utilizadas
 - Tableau (para visualização)  
 
+
 ---
+## 5. Resultado
+Dashboard de lucro clicável com possibilidade de visualizar, através do click, lucro de todas as cidades de cada estado, além de promover mudança na categoria e no segmento. 
+<img width="1153" height="556" alt="painel de lucro por estado - dashboard" src="https://github.com/user-attachments/assets/148507ee-4389-4e5e-9ad6-9eab8d1ace9a" />
