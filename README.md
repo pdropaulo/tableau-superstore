@@ -16,7 +16,7 @@
 
 ## 3. Visualização dos Resultados 
    - Dashboard interativo de Lucro: [[PAINEL DE LUCRO POR ESTADO](https://public.tableau.com/app/profile/pedro.andrade2292/viz/Supersampleorders/PAINELDELUCROPORESTADO)]
-   - Dashboard interativo de Vendas: [[PAINEL DE VENDAS POR ESTADO](https://public.tableau.com/app/profile/pedro.andrade2292/viz/Supersampleorders/PAINELDEVENDAPORESTADO2)]
+   - Dashboard interativo de Vendas: [[PAINEL DE VENDAS POR ESTADO](https://public.tableau.com/app/profile/pedro.andrade2292/viz/Supersampleorders/PAINELDEVENDAPORESTADO)]
    - Dashboard interativo de Estatísticas e Planilha: [[PAINEL DE ESTATÍSTICAS COM PLANILHA DE ORDEM](https://public.tableau.com/app/profile/pedro.andrade2292/viz/Supersampleorders/PAINELDEVENDAPORESTADO2)]
 
 ---
